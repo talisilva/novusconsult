@@ -1,13 +1,14 @@
-# Responsive Plants Website 🎍 
-## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
-### Responsive Plants Website 🎍
+Novus Consultoria - Automação e Qualidade de Software 🚀
+A Novus Consultoria é especializada em automação de testes, desenvolvimento web e inteligência artificial para garantir qualidade, eficiência e segurança nos processos tecnológicos das empresas.
 
-- Responsive Plants Website Using HTML, CSS and JavaScript.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+🔹 Serviços oferecidos:
+✅ Automação de Testes (Appium + Behave)
+✅ Desenvolvimento de Sites e Sistemas
+✅ Chatbots e IA para atendimento e automação
+✅ Consultoria em Qualidade de Software
+✅ Segurança e otimização de processos
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![plants website](/preview.png)
+🔹 Tecnologias utilizadas:
+HTML, CSS, JavaScript
+Python (Behave, Selenium, Appium)
+Frameworks modernos (React, Next.js)
